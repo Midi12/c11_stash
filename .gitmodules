@@ -1,0 +1,3 @@
+[submodule "eztest"]
+	path = eztest
+	url = https://github.com/havardt/EzTest
